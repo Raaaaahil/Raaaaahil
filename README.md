@@ -4,9 +4,21 @@
 
 <!-- ========================================================= -->
 
+<br/>
+
+<!-- ========================================================= -->
+<!--                 🌊 DIGITAL SPACE BANNER                   -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# 👋 Hey, I'm **Intakhab Nabi**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,50:2563EB,100:312E81&text=Welcome%20to%20my%20Digital%20Space&fontSize=38&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=Learn%20%E2%80%A2%20Code%20%E2%80%A2%20Build%20%E2%80%A2%20Grow&descSize=16&descAlignY=68&descColor=E0F2FE"/>
+
+</div>
+
+<div align="center">
+
+# Hey, I'm **Intakhab Nabi**
 
 ### `Full-Stack Developer` · `AI/ML Explorer` · `Problem Solver` · `Builder`
 
@@ -27,14 +39,19 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit-00A8FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-<br/><br/>
+</div>
 
-<a href="https://www.linkedin.com/in/intakhab-nabi/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Raaaaahil">
-  <img src="https://img.shields.io/badge/GitHub-Raaaaahil-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<!-- ========================================================= -->
+<!--                      💭 QUOTE                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+### 🌊 `STAY CURIOUS • KEEP BUILDING`
+
+> *"What we know is a drop, what we don't know is an ocean."*
+
+  **— Isaac Newton**
 
 </div>
 
