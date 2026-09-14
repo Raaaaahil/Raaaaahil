@@ -57,7 +57,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm **Intakhab Nabi**, a Computer Science Engineering student and developer who enjoys building things across **full-stack development, artificial intelligence, machine learning, and problem solving**.
 
